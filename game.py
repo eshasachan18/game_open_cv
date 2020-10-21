@@ -1,6 +1,9 @@
 import tkinter as tk
 import random
 import colors as c
+import pyautogui
+import numpy as np
+import cv2
 
 
 class Game(tk.Frame):
